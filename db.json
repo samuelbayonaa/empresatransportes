@@ -1,0 +1,62 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nombres": "Juan Perez",
+      "email": "juan@hotmail.com",
+      "numero": 3213802314,
+      "password": "e6481c46e064c35e8f6e371d72912507",
+      "rol": "cliente"
+    },
+    {
+      "id": "2",
+      "nombres": "Michell Guzman",
+      "email": "michell@gmail.com",
+      "numero": 3213802314,
+      "password": "f0efb5f6cb4ce54821a9c5c6e1dff052",
+      "rol": "administrador"
+    },
+    {
+      "id": "3",
+      "nombres": "Carlos López",
+      "email": "carlos@gmail.com",
+      "numero": 3213802314,
+      "password": "d2c4b1e8f05b8a54f67f4bbce7e3f04b",
+      "rol": "conductor"
+    },
+    {
+      "id": "1140",
+      "nombres": "samuel bayona",
+      "email": "samu@gmail.com",
+      "numero": "3213802314",
+      "password": "1014666123",
+      "rol": "administrador"
+    }
+  ],
+  "camiones": [
+    {
+      "id": "1",
+      "matricula": "ABC-1234",
+      "marca": "Ford",
+      "capacidad": 1500,
+      "consumo": 12.5,
+      "carga_actual": 750
+    },
+    {
+      "id": "2",
+      "matricula": "XYZ-5678",
+      "marca": "Chevrolet",
+      "capacidad": 2000,
+      "consumo": 14,
+      "carga_actual": 1200
+    },
+    {
+      "id": "3",
+      "matricula": "XYZ-123",
+      "marca": "Ford",
+      "capacidad": 1000,
+      "consumo": "20",
+      "carga_actual": 500
+    }
+  ]
+}
